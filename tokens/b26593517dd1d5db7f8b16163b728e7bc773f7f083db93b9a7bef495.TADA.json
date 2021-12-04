@@ -1,0 +1,9 @@
+{
+    "policyId": "b26593517dd1d5db7f8b16163b728e7bc773f7f083db93b9a7bef495",
+    "name": "TADATek",
+    "symbol": "TADA",
+    "website": "https://tadatek.com",
+    "description": "TADATek is a decentralized financial infrastructure. We provide solutions for Cardano Ecosystem.",
+    "totalSupply": 582550251,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
